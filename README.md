@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend data scientist based in Madrid（student）</h3>
 
 - 🔭 I’m currently studying on **computational social science**
+  
+- 📝 This is my note by learning how to become a Data Analyst(python based) [https://ines11python.github.io/liya-fullstack-da-note/]
 
 - 🌱 I’m currently learning python **pyspark is my goal**
 
