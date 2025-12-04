@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **computational social science**
   
-- 📝 This is my note by learning [how to become a Data Analyst](https://ines11python.github.io/liya-fullstack-da-note/) (python based) 
+- 📝 This is my note by learning [how to become a Data Analyst]([https://ines11python.github.io/liya-fullstack-da-note/](https://ines11python.github.io/my-da-portfolio/)) (python based) 
 
 - 🌱 I’m currently learning python **pyspark is my goal**
 
